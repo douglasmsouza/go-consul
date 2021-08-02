@@ -1,4 +1,4 @@
-module github.com/douglasmsouza/go-util-consul
+module github.com/douglasmsouza/go-consul
 
 go 1.16
 
